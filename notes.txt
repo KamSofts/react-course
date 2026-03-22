@@ -1,2 +1,6 @@
 cd client
 npm create vite@latest client -- --template react
+
+mkdir client/src/website
+cd client/src/website
+touch Website.jsx Header.jsx Foods.jsx Footer.jsx
