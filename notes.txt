@@ -4,3 +4,9 @@ npm create vite@latest client -- --template react
 mkdir client/src/website
 cd client/src/website
 touch Website.jsx Header.jsx Foods.jsx Footer.jsx
+
+Course 02 Card component and module styling
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+mkdir client/src/card
+cd client/src/card/
+touch Card.jsx Card.module.css

@@ -1,8 +1,13 @@
-import Website from "./website/Website"
+// import Website from "./website/Website"
+import Card from "./card/Card"
 
 const App = () => {
-    return(
-        <Website />
+    return (
+        <>
+            {/* <Website /> */}
+            <Card /><Card /><Card />
+        </>
+
     );
 }
 
