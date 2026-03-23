@@ -10,3 +10,9 @@ Course 02 Card component and module styling
 mkdir client/src/card
 cd client/src/card/
 touch Card.jsx Card.module.css
+
+Course 03 Button components (styling example)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+mkdir client/src/button
+touch client/src/button/Button1.jsx
+touch client/src/button/Button2.jsx client/src/button/Button2.module.css
