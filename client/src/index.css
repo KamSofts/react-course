@@ -1,3 +1,25 @@
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.student-container {
+    background-color: darkblue;
+    padding: 2px;
+    margin: 2px;
+    display: inline-block;
+}
+
+.student-card {
+    font-size: 2em;
+    padding: 10px;
+    margin: 2px;
+    width: 300px;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+.student-card h4,p{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+}
