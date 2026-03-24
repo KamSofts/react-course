@@ -22,3 +22,8 @@ Course 04 Componets with props (Properties)
 npm install prop-types
 mkdir client/src/properties
 touch client/src/properties/Student.jsx
+
+Course 05 Conditional rendering
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+mkdir client/src/conditional
+touch client/src/conditional/UserGreeting.jsx
