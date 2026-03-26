@@ -27,3 +27,9 @@ Course 05 Conditional rendering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 mkdir client/src/conditional
 touch client/src/conditional/UserGreeting.jsx
+
+Course 06 Render lists
+~~~~~~~~~~~~~~~~~~~~~~
+mkdir client/src/list
+cd client/src/list
+touch List1.jsx List2.jsx List3.jsx data.js 
